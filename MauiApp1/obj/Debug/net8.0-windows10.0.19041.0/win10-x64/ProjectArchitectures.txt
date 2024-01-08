@@ -1,1 +1,0 @@
-D:\.NET MAUI\MingleApp\MauiApp1\MauiApp1.csproj;x64
