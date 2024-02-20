@@ -8,35 +8,41 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Mingle
-build_property.ProjectDir = C:\Users\KaayaTech\Desktop\projects\Mingle\
+build_property.ProjectDir = C:\Users\KaayaTech\Desktop\projects\Mingle-app\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/KaayaTech/Desktop/projects/Mingle/App.xaml]
+[C:/Users/KaayaTech/Desktop/projects/Mingle-app/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Mingle.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/KaayaTech/Desktop/projects/Mingle/AppShell.xaml]
+[C:/Users/KaayaTech/Desktop/projects/Mingle-app/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Mingle.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/KaayaTech/Desktop/projects/Mingle/MainPage.xaml]
+[C:/Users/KaayaTech/Desktop/projects/Mingle-app/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Mingle.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/KaayaTech/Desktop/projects/Mingle/Resources/Styles/Colors.xaml]
+[C:/Users/KaayaTech/Desktop/projects/Mingle-app/PlayCupidPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Mingle.PlayCupidPage.xaml
+build_metadata.AdditionalFiles.TargetPath = PlayCupidPage.xaml
+build_metadata.AdditionalFiles.RelativePath = PlayCupidPage.xaml
+
+[C:/Users/KaayaTech/Desktop/projects/Mingle-app/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Mingle.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/KaayaTech/Desktop/projects/Mingle/Resources/Styles/Styles.xaml]
+[C:/Users/KaayaTech/Desktop/projects/Mingle-app/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Mingle.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

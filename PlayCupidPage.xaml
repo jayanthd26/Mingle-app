@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Mingle.PlayCupidPage">
+
+
+
+    <AbsoluteLayout>
+
+        <!-- Header Section -->
+        <StackLayout Padding="0" Spacing="0" Orientation="Horizontal">
+
+            <!-- Left Icon -->
+            <StackLayout WidthRequest="72" Padding="0,16.79,0,0">
+                <!-- Include your icon styling here -->
+            </StackLayout>
+
+            <!-- Title -->
+            <StackLayout WidthRequest="96" Orientation="Vertical">
+                <!-- Include your title styling here -->
+            </StackLayout>
+
+        </StackLayout>
+
+        <!-- Main Content -->
+        <Frame WidthRequest="398" HeightRequest="180" CornerRadius="4" BackgroundColor="White"
+               Margin="0,40,0,0">
+
+            <!-- Title -->
+            <Label Text="Play Cupid" FontSize="24" FontFamily="Epilogue" FontWeight="Bold" TextColor="#171A1F"
+                   Margin="19,54,0,0" />
+
+            <!-- Tab Buttons -->
+            <StackLayout Direction="Row" JustifyContent="SpaceAround" BackgroundColor="#8023EB"
+                        Margin="13,144,0,0" WidthRequest="398" HeightRequest="36">
+
+                <Button Text="Members" TextColor="White" FlexLayout.Grow="1" BackgroundColor="#8023EB" CornerRadius="18">
+                    <!-- Include your button styling here -->
+                </Button>
+
+                <BoxView WidthRequest="1" BackgroundColor="#8023EB" />
+
+                <Button Text="Invite others" TextColor="#8023EB" FlexLayout.Grow="1" BackgroundColor="White" CornerRadius="18">
+                    <!-- Include your button styling here -->
+                </Button>
+
+                <BoxView WidthRequest="1" BackgroundColor="#8023EB" />
+
+                <Button Text="Matched pairs" TextColor="#8023EB" FlexLayout.Grow="1" BackgroundColor="White" CornerRadius="18">
+                    <!-- Include your button styling here -->
+                </Button>
+
+            </StackLayout>
+
+            <!-- Other UI Elements -->
+            <!-- Include your other UI elements here -->
+
+        </Frame>
+
+        <!-- Additional UI Elements -->
+        <!-- Include your additional UI elements here -->
+
+    </AbsoluteLayout>
+</ContentPage>

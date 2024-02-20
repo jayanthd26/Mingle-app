@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cuGM7oFBEWKIIYxrmeyZqq7DJVkloFkwzPzY4QlekHbK+gXjyZj2thaXk8ce5K4C1UCa1XuSc9nNKvgbtsXj6Q==",
+  "dgSpecHash": "NAk8jRJe+u0F/BEOKNmIaLKovIahX0SVsIMBqmCc6HuQt7ctQX+GyyQ/cxguvMkw2TvLjBKTaT+vPqkHiBfJiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KaayaTech\\Desktop\\projects\\Mingle\\Mingle.csproj",
+  "projectFilePath": "C:\\Users\\KaayaTech\\Desktop\\projects\\Mingle-app\\Mingle.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KaayaTech\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\KaayaTech\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

@@ -32936,11 +32936,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KaayaTech\\Desktop\\projects\\Mingle\\Mingle.csproj",
+      "projectUniqueName": "C:\\Users\\KaayaTech\\Desktop\\projects\\Mingle-app\\Mingle.csproj",
       "projectName": "Mingle",
-      "projectPath": "C:\\Users\\KaayaTech\\Desktop\\projects\\Mingle\\Mingle.csproj",
+      "projectPath": "C:\\Users\\KaayaTech\\Desktop\\projects\\Mingle-app\\Mingle.csproj",
       "packagesPath": "C:\\Users\\KaayaTech\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KaayaTech\\Desktop\\projects\\Mingle\\obj\\",
+      "outputPath": "C:\\Users\\KaayaTech\\Desktop\\projects\\Mingle-app\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
