@@ -2,22 +2,23 @@
 {
     public partial class MainPage : ContentPage
     {
-        private MongoDbContext dbContext;
-        private string mobileNumber;
+        //private MongoDbContext dbContext;
+        //private string mobileNumber;
 
         public MainPage()
         {
             InitializeComponent();
 
-            string connectionString = "";
-            string databaseName = "MingleApp";
-            dbContext = new MongoDbContext(connectionString, databaseName);
+            //string connectionString = "mongodb+srv://rakshithazrati:w8mSxGhX4sbnOID5@mingleapp.7qncxbg.mongodb.net/?retryWrites=true&w=majority";
+            //string databaseName = "MingleApp";
+            //dbContext = new MongoDbContext(connectionString, databaseName);
         }
 
-        private void OnSignUpClicked(object sender, EventArgs e)
+        private void OnNextClicked(object sender, EventArgs e)
         {
-            mobileNumber = enteredPhoneNumber.Text;
-            Navigation.PushAsync(new OtpPage(mobileNumber, dbContext));
+            var LoginPage = Handler.MauiContext.Services.GetService<LogIn>();
+            //mobileNumber = enteredPhoneNumber.Text;
+            Navigation.PushAsync(LoginPage);
         }
     }
 

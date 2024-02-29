@@ -217,6 +217,15 @@
     <AppxPackagedFile Include="D:\.NET MAUI\MingleApp\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\homeimg.scale-100.jpeg">
       <PackagePath>homeimg.scale-100.jpeg</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.NET MAUI\MingleApp\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png">
+      <PackagePath>logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.NET MAUI\MingleApp\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo2.scale-100.png">
+      <PackagePath>logo2.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.NET MAUI\MingleApp\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\verifyotpimg.scale-100.png">
+      <PackagePath>verifyotpimg.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET MAUI\MingleApp\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.deps.json">
       <PackagePath>MauiApp1.deps.json</PackagePath>
     </AppxPackagedFile>

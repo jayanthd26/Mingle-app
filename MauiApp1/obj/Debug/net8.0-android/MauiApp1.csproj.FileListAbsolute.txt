@@ -1048,4 +1048,7 @@ D:\.NET MAUI\MingleApp\MauiApp1\obj\Debug\net8.0-android\android\assets\MongoDB.
 D:\.NET MAUI\MingleApp\MauiApp1\obj\Debug\net8.0-android\android\assets\SharpCompress.dll
 D:\.NET MAUI\MingleApp\MauiApp1\obj\Debug\net8.0-android\android\assets\Snappier.dll
 D:\.NET MAUI\MingleApp\MauiApp1\obj\Debug\net8.0-android\android\assets\ZstdSharp.dll
+D:\.NET MAUI\MingleApp\MauiApp1\obj\Debug\net8.0-android\resizetizer\r\drawable\logo.png
+D:\.NET MAUI\MingleApp\MauiApp1\obj\Debug\net8.0-android\resizetizer\r\drawable\logo2.png
+D:\.NET MAUI\MingleApp\MauiApp1\obj\Debug\net8.0-android\resizetizer\r\drawable\verifyotpimg.png
 D:\.NET MAUI\MingleApp\MauiApp1\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll

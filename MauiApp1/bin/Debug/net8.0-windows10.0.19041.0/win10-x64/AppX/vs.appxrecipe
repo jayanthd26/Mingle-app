@@ -29,13 +29,13 @@
     <AppXManifest Include="D:\.NET MAUI\MingleApp\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-01-03T11:04:11.395</Modified>
+      <Modified>2024-02-26T12:04:46.705</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\.NET MAUI\MingleApp\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-12-12T16:21:33.809</Modified>
+      <Modified>2024-02-26T12:04:46.582</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET MAUI\MingleApp\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.runtimeconfig.json">
       <PackagePath>MauiApp1.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET MAUI\MingleApp\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.dll">
       <PackagePath>MauiApp1.dll</PackagePath>
-      <Modified>2024-01-03T11:04:10.258</Modified>
+      <Modified>2024-02-26T12:04:46.206</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET MAUI\MingleApp\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MauiApp1.exe</PackagePath>
-      <Modified>2024-01-03T11:04:10.312</Modified>
+      <Modified>2024-02-26T12:04:46.211</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET MAUI\MingleApp\MauiApp1\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -267,31 +267,43 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET MAUI\MingleApp\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-12-05T19:46:33.380</Modified>
+      <Modified>2024-02-22T18:18:27.880</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET MAUI\MingleApp\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-12-05T19:46:33.391</Modified>
+      <Modified>2024-02-22T18:18:27.890</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET MAUI\MingleApp\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-12-05T19:46:33.405</Modified>
+      <Modified>2024-02-22T18:18:27.906</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET MAUI\MingleApp\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-12-05T19:46:33.425</Modified>
+      <Modified>2024-02-22T18:18:27.925</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET MAUI\MingleApp\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-12-05T19:46:33.502</Modified>
+      <Modified>2024-02-22T18:18:27.992</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET MAUI\MingleApp\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\homeimg.scale-100.jpeg">
       <PackagePath>homeimg.scale-100.jpeg</PackagePath>
       <Modified>2023-12-05T19:44:51.889</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.NET MAUI\MingleApp\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png">
+      <PackagePath>logo.scale-100.png</PackagePath>
+      <Modified>2024-01-18T18:37:55.764</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.NET MAUI\MingleApp\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo2.scale-100.png">
+      <PackagePath>logo2.scale-100.png</PackagePath>
+      <Modified>2024-02-13T13:10:44.003</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.NET MAUI\MingleApp\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\verifyotpimg.scale-100.png">
+      <PackagePath>verifyotpimg.scale-100.png</PackagePath>
+      <Modified>2024-02-22T18:17:03.490</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET MAUI\MingleApp\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.deps.json">
       <PackagePath>MauiApp1.deps.json</PackagePath>
-      <Modified>2023-12-12T16:21:33.267</Modified>
+      <Modified>2024-02-26T12:03:32.629</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\raksh\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

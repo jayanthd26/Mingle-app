@@ -187,3 +187,6 @@ D:\.NET MAUI\MingleApp\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\S
 D:\.NET MAUI\MingleApp\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Snappier.dll
 D:\.NET MAUI\MingleApp\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ZstdSharp.dll
 D:\.NET MAUI\MingleApp\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\mongocrypt.dll
+D:\.NET MAUI\MingleApp\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png
+D:\.NET MAUI\MingleApp\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo2.scale-100.png
+D:\.NET MAUI\MingleApp\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\verifyotpimg.scale-100.png
