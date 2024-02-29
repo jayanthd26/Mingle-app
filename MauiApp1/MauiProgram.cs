@@ -18,7 +18,7 @@ namespace MauiApp1
                 });
             
 
-            builder.Services.AddSingleton<MongoDbContext>(new MongoDbContext("mongodb://rakshithazrati:w8mSxGhX4sbnOID5@ac-annsyke-shard-00-02.7qncxbg.mongodb.net:27017,ac-annsyke-shard-00-01.7qncxbg.mongodb.net:27017,ac-annsyke-shard-00-00.7qncxbg.mongodb.net:27017/MingleApp?authSource=admin&ssl=true", "MingleApp"));
+            builder.Services.AddSingleton<MongoDbContext>(new MongoDbContext(""));
 
             builder.Services.AddTransient<LogIn>();
             builder.Services.AddTransient<SignUpPage>();
