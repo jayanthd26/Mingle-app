@@ -5,60 +5,51 @@
 
 
 
-    <AbsoluteLayout>
+    <VerticalStackLayout Spacing="0">
+        <Label
+            Text="HeartSync"
+            FontFamily="Epilogue"
+            FontSize="16"
+            Padding="20,0,0,0"
+            
+            
+        />
+        <Label
+            Text="Play Cupid"
+            FontFamily="Epilogue"
+            FontAttributes="Bold"
+            FontSize="24"
+            Padding="20,12,0,0"
+    
+        />
+        <Label
+            Text="Do you know your friends?
+            
+            
+           
+                    Match your friends!"
+            FontFamily="Inter"
+            FontAttributes="None"
+            FontSize="16"
+            Padding="20,12,0,0"
+    
+        />
+        <Grid>
+            
+            
+            
+        </Grid>
 
-        <!-- Header Section -->
-        <StackLayout Padding="0" Spacing="0" Orientation="Horizontal">
 
-            <!-- Left Icon -->
-            <StackLayout WidthRequest="72" Padding="0,16.79,0,0">
-                <!-- Include your icon styling here -->
-            </StackLayout>
+    </VerticalStackLayout>
 
-            <!-- Title -->
-            <StackLayout WidthRequest="96" Orientation="Vertical">
-                <!-- Include your title styling here -->
-            </StackLayout>
+      
 
-        </StackLayout>
+            
+           
 
-        <!-- Main Content -->
-        <Frame WidthRequest="398" HeightRequest="180" CornerRadius="4" BackgroundColor="White"
-               Margin="0,40,0,0">
 
-            <!-- Title -->
-            <Label Text="Play Cupid" FontSize="24" FontFamily="Epilogue" FontWeight="Bold" TextColor="#171A1F"
-                   Margin="19,54,0,0" />
 
-            <!-- Tab Buttons -->
-            <StackLayout Direction="Row" JustifyContent="SpaceAround" BackgroundColor="#8023EB"
-                        Margin="13,144,0,0" WidthRequest="398" HeightRequest="36">
+        
 
-                <Button Text="Members" TextColor="White" FlexLayout.Grow="1" BackgroundColor="#8023EB" CornerRadius="18">
-                    <!-- Include your button styling here -->
-                </Button>
-
-                <BoxView WidthRequest="1" BackgroundColor="#8023EB" />
-
-                <Button Text="Invite others" TextColor="#8023EB" FlexLayout.Grow="1" BackgroundColor="White" CornerRadius="18">
-                    <!-- Include your button styling here -->
-                </Button>
-
-                <BoxView WidthRequest="1" BackgroundColor="#8023EB" />
-
-                <Button Text="Matched pairs" TextColor="#8023EB" FlexLayout.Grow="1" BackgroundColor="White" CornerRadius="18">
-                    <!-- Include your button styling here -->
-                </Button>
-
-            </StackLayout>
-
-            <!-- Other UI Elements -->
-            <!-- Include your other UI elements here -->
-
-        </Frame>
-
-        <!-- Additional UI Elements -->
-        <!-- Include your additional UI elements here -->
-
-    </AbsoluteLayout>
 </ContentPage>
