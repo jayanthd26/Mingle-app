@@ -9,8 +9,8 @@
         {
             InitializeComponent();
 
-            //string connectionString = "mongodb+srv://rakshithazrati:w8mSxGhX4sbnOID5@mingleapp.7qncxbg.mongodb.net/?retryWrites=true&w=majority";
-            //string databaseName = "MingleApp";
+            //string connectionString = "mongodb://rakshithazrati:w8mSxGhX4sbnOID5@ac-annsyke-shard-00-02.7qncxbg.mongodb.net:27017,ac-annsyke-shard-00-01.7qncxbg.mongodb.net:27017,ac-annsyke-shard-00-00.7qncxbg.mongodb.net:27017/MingleApp?authSource=admin&ssl=true\", \"MingleApp";
+           // string databaseName = "MingleApp";
             //dbContext = new MongoDbContext(connectionString, databaseName);
         }
 

@@ -93,6 +93,6 @@ public partial class ProfilePage : ContentPage
         userProfile.Friends.Add("Friend1");
         userProfile.Friends.Add("Friend2");
 
-        dbContext.UserProfiles.InsertOne(userProfile);
+        //dbContext.UserProfiles.InsertOne(userProfile);
     }
 }

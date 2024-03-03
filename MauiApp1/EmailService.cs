@@ -14,10 +14,10 @@ public class EmailService
         smtpClient = new SmtpClient("smtp.gmail.com")
         {
             Port = 587,
-            Credentials = new NetworkCredential("", ""),
+            Credentials = new NetworkCredential("rakshithazrati@gmail.com", "tzypglevmlikckmu"),
             EnableSsl = true,
         };
-        fromAddress = "";
+        fromAddress = "rakshithazrati@gmail.com";
     }
 
     public void SendOTPMail(string toAddress, string otp)
