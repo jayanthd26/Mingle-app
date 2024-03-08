@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NET MAUI\\MingleApp\\MauiApp1\\MauiApp1.csproj": {}
+    "D:\\.NET MAUI\\Mingle-App-Updated\\Mingle-app\\MauiApp1\\MauiApp1.csproj": {}
   },
   "projects": {
-    "D:\\.NET MAUI\\MingleApp\\MauiApp1\\MauiApp1.csproj": {
+    "D:\\.NET MAUI\\Mingle-App-Updated\\Mingle-app\\MauiApp1\\MauiApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET MAUI\\MingleApp\\MauiApp1\\MauiApp1.csproj",
+        "projectUniqueName": "D:\\.NET MAUI\\Mingle-App-Updated\\Mingle-app\\MauiApp1\\MauiApp1.csproj",
         "projectName": "MauiApp1",
-        "projectPath": "D:\\.NET MAUI\\MingleApp\\MauiApp1\\MauiApp1.csproj",
+        "projectPath": "D:\\.NET MAUI\\Mingle-App-Updated\\Mingle-app\\MauiApp1\\MauiApp1.csproj",
         "packagesPath": "C:\\Users\\raksh\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET MAUI\\MingleApp\\MauiApp1\\obj\\",
+        "outputPath": "D:\\.NET MAUI\\Mingle-App-Updated\\Mingle-app\\MauiApp1\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

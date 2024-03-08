@@ -28,6 +28,8 @@
                 <Image Source="logo.png" Aspect="AspectFill" />
             </Frame>
         </SwipeView>
+
+        <Button Text="play cupid page" Clicked="Button_Clicked"></Button>
     </StackLayout>
 
 </ContentPage>

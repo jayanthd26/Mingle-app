@@ -21,4 +21,9 @@ public partial class MyDatesPage : ContentPage
         // Handle the swipe action (e.g., update the UI or perform some logic)
         Console.WriteLine($"User {action} the item.");
     }
+
+    private void Button_Clicked(object sender, EventArgs e)
+    {
+        Navigation.PushAsync(new PlayCupidMembersPage());
+    }
 }

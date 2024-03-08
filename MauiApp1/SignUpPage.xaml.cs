@@ -36,7 +36,7 @@ public partial class SignUpPage : ContentPage
 
         emailService.SendOTPMail("rakshit@yugsha.com", otp); //change to entered email 
         await _dbContext.SaveSignUpDetails(enteredUsername.Text, enteredEmail.Text, enteredPhoneNumber.Text, enteredPassword.Text); //add verified = false and make it true when otp verification done
-
+        
         var otpPage = Handler.MauiContext.Services.GetService<OtpPage>();
         await Navigation.PushAsync(otpPage);
     }

@@ -20,6 +20,9 @@
     <MauiXaml Update="OtpPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="PlayCupidMembersPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="ProfilePage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
@@ -27,6 +30,12 @@
       <SubType>Designer</SubType>
     </MauiXaml>
     <MauiXaml Update="SignUpPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="Views\HomeBottomNavBar.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="Views\PlayCupidTopNavBar.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
   </ItemGroup>
