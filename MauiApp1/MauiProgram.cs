@@ -18,12 +18,15 @@ namespace MauiApp1
                 });
                 
 
-            builder.Services.AddSingleton<MongoDbContext>(new MongoDbContext());
+            builder.Services.AddSingleton<MongoDbContext>(new MongoDbContext("",""));
 
             builder.Services.AddTransient<LogIn>();
             builder.Services.AddTransient<SignUpPage>();
             builder.Services.AddTransient<OtpPage>();
             builder.Services.AddTransient<MyDatesPage>();
+            builder.Services.AddTransient<PlayCupidMembersPage>();
+            builder.Services.AddTransient<PlayCupidInvitePage>();
+            builder.Services.AddTransient<ProfilePage>();
 
 #if DEBUG
             builder.Logging.AddDebug();
